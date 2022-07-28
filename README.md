@@ -1,2 +1,2 @@
-# Japaneixxx.tk
+# Japaneix.tk
 My site files
